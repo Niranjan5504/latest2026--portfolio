@@ -1,0 +1,17 @@
+{
+  "name": "Niranjan Kumar A — Portfolio",
+  "short_name": "NKA Portfolio",
+  "description": "Personal portfolio of Niranjan Kumar A — IT Graduate, Software Development Enthusiast, and Content Moderator at Concentrix.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
